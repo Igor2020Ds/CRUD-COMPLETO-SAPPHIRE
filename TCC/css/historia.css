@@ -1,0 +1,23 @@
+
+    .bg{
+        background-image: url("logo.jpeg");
+ 
+        background-size:cover;
+
+    
+        
+        
+}
+
+.integrantes{
+    color:chocolate;
+    margin-left: 650px;
+}
+.creditos{
+    color: aquamarine;
+    margin-left: 600px;
+}
+
+.txt{
+    color:white;
+}

@@ -1,0 +1,24 @@
+
+  .bg{
+    background-image: url("logo.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+
+
+
+}
+
+
+
+.cor{
+  font-size:15px;
+  color:rgb(0, 174, 255);
+  font-family: 'Roboto', sans-serif;
+}
+
+.core{
+  font-size:15px;
+  color:rgb(255, 255, 255);
+  font-family: 'Roboto', sans-serif;
+}

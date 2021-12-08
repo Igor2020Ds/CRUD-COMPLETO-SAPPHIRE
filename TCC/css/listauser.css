@@ -1,0 +1,36 @@
+.bg{
+    background-image: url("logo.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'Roboto', sans-serif;
+    
+    }
+    .lista{
+        color:white;
+    }
+
+    .lista_dados{
+        color:white;
+    }
+
+
+    .tim{
+        color:white;
+    }
+
+    .home{
+
+        background-color:rgb(35, 114, 167);
+        border: none;
+        color: white;
+        padding: 10px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+    }
+
+
+.main{
+    color:red;
+}

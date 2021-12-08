@@ -1,0 +1,25 @@
+.bg{
+    background-image: url("logo.jpeg");  
+    background-repeat: no-repeat; 
+    background-size:cover;
+    position: fixed;
+}
+
+
+.p1 {
+  font-size:20px;
+  color:rgb(255, 255, 255);
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+  text-decoration: none;
+}
+
+.p2{
+color:chocolate;
+
+}
+
+.a{
+  list-style: none;
+  text-decoration: none;
+}

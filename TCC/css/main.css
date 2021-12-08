@@ -1,0 +1,176 @@
+body,html{
+
+
+    height: 100%;
+    margin:0px;
+
+   
+   
+}
+
+.ed1{
+    color:rgb(255, 255, 255);
+    font-size:20px;
+    background-color:rgb(35, 114, 167);
+    color:rgb(255, 255, 255);
+    list-style:none;
+    text-decoration:none;
+}
+.bg{
+    background-image: url("logo.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'Roboto', sans-serif;
+    
+    }
+
+    .loginbtn{
+
+        color:rgb(255, 220, 220);
+ 
+    }
+
+
+    .cadastrar_cliente{
+        background-color:rgb(35, 114, 167);
+        border: none;
+        color: white;
+        padding: 10px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 10px;
+
+        
+    }
+    .cad_nome{
+        
+        font-size:10px; 
+        color:rgb(255, 255, 255);
+
+        font-family: 'Roboto', sans-serif;
+        
+    }
+    .cad_nomeinput{
+        border-radius: 20px;
+        border-color: white;
+        font-family: 'Roboto', sans-serif;
+        
+    }
+
+.cad_email{
+    font-size:10px;
+    color:rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+
+    
+
+}
+    .cad_emailinput{
+        border-radius: 80px;
+        border-color:rgb(255, 255, 255);
+        border:1;
+        font-family: 'Roboto', sans-serif;
+    }
+
+ .cad_senha{
+        font-size:10px;
+        color:rgb(255, 255, 255);
+        font-family: 'Roboto', sans-serif;
+
+    }
+    .cad_tipoinput{
+        border-radius: 20px;
+        border-color:white;
+        
+    }
+
+    .log_userinput{
+     border-radius:10px;
+     border-color:rgb(255, 255, 255);
+    }
+
+    .log_senhainput{
+
+    border-radius:10px;
+    border-color: rgb(255, 255, 255);
+    }
+
+.lista{
+
+background-color:rgb(0, 255, 213);
+font-size:20px;
+font-family: 'Roboto', sans-serif;
+}
+
+
+.cad_rdsocial{
+
+    font-size:10px;
+    color:rgb(255, 255, 255);
+}
+
+.cad_rdsocialinput{
+    border-radius: 10px;
+    border-color:white;
+}
+
+.cad_telefone{
+    font-size:10px;
+    color:rgb(255, 255, 255);
+}
+
+.cad_telefoneinput{
+    border-radius: 10px;
+    border-color:white;
+}
+
+
+.cad_cpf{
+    font-size:10px;
+    color:rgb(255, 255, 255);
+}
+
+.cad_cpfinput{
+    border-radius: 10px;
+    border-color:white;
+}
+
+.select_pais{
+    border-radius: 10px;
+    border-color:white;
+
+}
+
+.cad_pais{
+    font-size:10px;
+    color:rgb(255, 255, 255);
+
+}
+.cad_genero{
+
+    font-size:10px;
+    color:rgb(255, 255, 255);
+
+}
+
+.select_genero{
+
+    border-radius: 10px;
+    border-color:white;
+}
+
+
+.cad_dtnascimento{
+    font-size:10px;
+    color:rgb(255, 255, 255);
+
+}
+
+
+.select_dtnascimento{
+    border-radius: 10px;
+    border-color:white;
+
+}
+
